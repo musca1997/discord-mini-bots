@@ -1,11 +1,11 @@
-##Description
+## Description
 
 It's a place to store all of the discord mini bot ideas.
 
 Most of bots here are for some personal use or for a specific server.
 
 
-##Bot List
+## Bot List
 
 **1. Kermit ShitpostBot**
 
@@ -16,7 +16,7 @@ It's a discord bot for tweeting stuff from Kermit House of Shitposting server.
 **2. [placeholder]**
 
 
-##To Do List
+## To Do List
 
 1. A bot to grab stuff from RYM
 
