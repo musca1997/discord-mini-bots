@@ -20,6 +20,6 @@ It's a discord bot for tweeting stuff from Kermit House of Shitposting server.
 
 1. A bot to grab stuff from RYM
 
-2. A bot with cryptocurency related functions
+2. A bot with cryptocurrency related functions
 
 3. A bot to grab stuff from Goodreads
